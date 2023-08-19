@@ -123,6 +123,7 @@ padding-bottom: var(--default-padding);
 
 .mainNav_menu:not(:last-child){
   border-bottom: 1px solid var(--gray);
+  padding-bottom: var(--default-padding);
 }
 
 .perfil{
